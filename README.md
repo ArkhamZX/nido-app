@@ -1,6 +1,6 @@
-# Nido — app Android
+# Homi — app Android
 
-Descarga la última versión de la app de inmuebles **Nido** en
+Descarga la última versión de la app de inmuebles **Homi** en
 **[Releases → Latest](../../releases/latest)** (archivo `.apk`).
 
 ## Cómo instalar
